@@ -1,0 +1,6 @@
+{
+  "name": "Honar Zistan — The Art of Living",
+  "description": "هنر زیستن | کتاب مصور زندگی — A trilingual illustrated literary work and lived-experience journal by Akbar Ali-Miri (Siavash).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
